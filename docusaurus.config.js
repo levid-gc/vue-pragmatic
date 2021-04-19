@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Vue.js 小工笔记',
   tagline: '学而不思则罔，思而不学则殆。',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://levid-gc.github.io',
+  baseUrl: '/vue-pragmatic/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'levid-gc', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'vue-pragmatic', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Vue.js 小工笔记',
@@ -29,7 +29,7 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/levid-gc/vue-pragmatic',
           label: 'GitHub',
           position: 'right',
         },
