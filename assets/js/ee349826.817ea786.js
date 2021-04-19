@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{101:function(a){a.exports=JSON.parse('{"allTagsPath":"/vue-pragmatic/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/vue-pragmatic/blog/tags/facebook"}')}}]);
